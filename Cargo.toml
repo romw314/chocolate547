@@ -1,6 +1,6 @@
 [package]
 name = "chocolate547"
-version = "0.1.0"
+version = "0.2.0"
 description = "Chocolate is sweet."
 repository = "https://github.com/romw314/chocolate547/"
 edition = "2018"
