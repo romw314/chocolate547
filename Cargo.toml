@@ -10,5 +10,9 @@ license = "Unlicense"
 name = "chocolate"
 path = "src/main.rs"
 
+[[bin]]
+name = "choco-ghost"
+path = "src/choco-ghost.rs"
+
 [dependencies]
 clap = { version = "4.4.13", features = ["std", "cargo"], default-features = false }
