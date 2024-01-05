@@ -1,6 +1,8 @@
 use std::io::BufRead; // import the read_line function
 use std::io::Write; // import the flush function
 
+use clap::crate_version;
+
 fn getnumstr(num: usize) -> &'static str {
 	let last = num % 10;
 	if last == 1 {
@@ -18,6 +20,8 @@ fn getnumstr(num: usize) -> &'static str {
 }
 
 fn main() {
+	println!("CHOCO v{}", crate_version!());
+
 	let mut index = 1;
 	loop {
 		if let Some(arg) = std::env::args().nth(index) {

@@ -6,3 +6,6 @@ edition = "2018"
 [[bin]]
 name = "chocolate"
 path = "src/main.rs"
+
+[dependencies]
+clap = { version = "4.4.13", features = ["std", "cargo"], default-features = false }
