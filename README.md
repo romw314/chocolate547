@@ -11,6 +11,8 @@ Chocolate is everything... everything is chocolate. Even SMW is chocolate (Choco
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/romw314/chocolate547?logo=github)](https://github.com/romw314/chocolate547/pulls)
 [![GitHub Repo stars](https://img.shields.io/github/stars/romw314/chocolate547?style=flat&logo=github)](https://github.com/romw314/chocolate547/stargazers)
 
+![Chocolate-547-1-13-2024](https://github.com/romw314/chocolate547/assets/106016361/f7225756-e62c-4c14-a89c-0dff92f243ac)
+
 Chocolate on crates.io... is it OK? Yes! Try these commands:
 
 * `chocolate island 1`
@@ -20,3 +22,7 @@ Chocolate on crates.io... is it OK? Yes! Try these commands:
 * `chocolate secret`
 * `chocolate island 3`
 * `chocolate island 4`
+
+## Credits
+
+Chocolate 547 logo created with the [TextStudio Font Generator](https://www.textstudio.com/).
