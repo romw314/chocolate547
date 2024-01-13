@@ -1,4 +1,4 @@
-# chocolate547
+# Chocolate 547
 Chocolate is everything... everything is chocolate. Even SMW is chocolate (Choco-ghost included).
 
 [![Crates.io Version](https://img.shields.io/crates/v/chocolate547)](https://crates.io/crates/chocolate547)
